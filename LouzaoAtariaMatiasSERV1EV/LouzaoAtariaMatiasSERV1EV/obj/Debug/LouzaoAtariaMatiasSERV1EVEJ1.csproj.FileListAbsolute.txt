@@ -1,0 +1,7 @@
+C:\Users\alumnoinfo\source\repos\LouzaoAtariaMatiasSERV1EV\LouzaoAtariaMatiasSERV1EV\bin\Debug\LouzaoAtariaMatiasSERV1EVEJ1.exe.config
+C:\Users\alumnoinfo\source\repos\LouzaoAtariaMatiasSERV1EV\LouzaoAtariaMatiasSERV1EV\bin\Debug\LouzaoAtariaMatiasSERV1EVEJ1.exe
+C:\Users\alumnoinfo\source\repos\LouzaoAtariaMatiasSERV1EV\LouzaoAtariaMatiasSERV1EV\bin\Debug\LouzaoAtariaMatiasSERV1EVEJ1.pdb
+C:\Users\alumnoinfo\source\repos\LouzaoAtariaMatiasSERV1EV\LouzaoAtariaMatiasSERV1EV\obj\Debug\LouzaoAtariaMatiasSERV1EVEJ1.csprojAssemblyReference.cache
+C:\Users\alumnoinfo\source\repos\LouzaoAtariaMatiasSERV1EV\LouzaoAtariaMatiasSERV1EV\obj\Debug\LouzaoAtariaMatiasSERV1EVEJ1.csproj.CoreCompileInputs.cache
+C:\Users\alumnoinfo\source\repos\LouzaoAtariaMatiasSERV1EV\LouzaoAtariaMatiasSERV1EV\obj\Debug\LouzaoAtariaMatiasSERV1EVEJ1.exe
+C:\Users\alumnoinfo\source\repos\LouzaoAtariaMatiasSERV1EV\LouzaoAtariaMatiasSERV1EV\obj\Debug\LouzaoAtariaMatiasSERV1EVEJ1.pdb
